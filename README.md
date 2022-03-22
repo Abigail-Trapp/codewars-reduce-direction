@@ -1,0 +1,1 @@
+# codewars-reduce-direction
